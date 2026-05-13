@@ -1,9 +1,12 @@
 ﻿@{
   ViewData["Title"] = "Home Page";
 }
+<!-- Loading Content -->
 <div id="spindash-loader-div">
   <div class="row">
-    <img id="spindash-loader" class="nav-link" alt="sonic-loader"/>
+    <div class="col-12 text-center">
+      <img id="spindash-loader" class="nav-link" alt="sonic-loader"/>
+    </div>
   </div>
   <div class="row">
     <div class="col-12 text-center">
@@ -11,17 +14,23 @@
     </div>
   </div>
 </div>
-<div id="non-loading-container">
+<!-- Page Content -->
+<div id="page-container" class="">
+  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <source src="/src/images/waves-background-animated.mp4" type="video/mp4">
+  </video>
   <!-- Floating Title -->
-  <div class="row">
-    <h2 class="floating-title">
-      Sean Canning
-      <span>Sean Canning</span>
-      <span>Sean Canning</span>
-      <span>Software Engineer</span>
-    </h2>
-  </div>
   <!-- <div class="row">
+    <div class="col-12 text-center">
+      <h2 class="floating-title">
+        Sean Canning
+        <span>Sean Canning</span>
+        <span>Sean Canning</span>
+        <span>Software Engineer</span>
+      </h2>
+    </div> -->
+  <!-- </div>
+  <div class="row">
     <div class="col-sm-6 mb-3 mb-sm-0">
       <div class="card">
         <div class="card-body">
@@ -49,9 +58,9 @@
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
 
-  <!-- @* Grid Cards *@
+  @* Grid Cards *@
 
   <div class="row row-cols-1 row-cols-md-2 g-4">
     <div class="col">
@@ -92,4 +101,5 @@
     </div>
   </div> -->
 </div>
+<link rel="stylesheet" href="css/Home.css"/>
 <script src="js/Home.js"/>
