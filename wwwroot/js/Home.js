@@ -14,6 +14,6 @@ function onload() {
 
     setTimeout(() => {
         document.getElementById("spindash-loader-div").style.display = "none"; 
-        document.getElementById("non-loading-container").style.display = "inline-block";
+        document.getElementById("page-content").style.display = "inline-block";
     }, 2000);
 }
