@@ -3,7 +3,7 @@
 
 #spindash-loader {
   align-items: center;
-  display: inline-block;
+  display: none;
   height: 400px;
   width: 400px;
 }
@@ -47,7 +47,13 @@
 .nav-card:hover {
   transition-duration: 1s;
   transform: scale(1.2);
-  background-color: #24428c;
+  background-color: #FD5E53;
+}
+
+video {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 /* Floating Title
 

@@ -1,6 +1,20 @@
 ﻿@{
   ViewData["Title"] = "Home Page";
 }
+
+<script>
+    console.log("Running here");
+
+    while (@ViewBag.ShowLoader) {
+      setTimeout(2000);
+      console.log("loop");
+    }
+    console.log("out of loop");
+
+    document.getElementById("spindash-loader-div").style.display = "none";
+    document.getElementById("page-content").style.display = "inline-block";
+</script>
+
 <!-- Loading Content -->
 <div id="spindash-loader-div">
   <div class="row">
@@ -18,48 +32,56 @@
 <!-- Page Content -->
 <div id="page-content" class="vh-100">
   <!-- Background -->
-  <video autoplay="autoplay" muted="muted" loop="loop" class="vw-100 position-absolute z-n1">
-    <source src="/src/images/waves-background-animated.mp4" type="video/mp4">
+  <video autoplay="autoplay" muted="muted" loop="loop" class="vh-100 position-absolute z-n1">
+    <source src="/src/backgrounds/@(ViewBag.BackgroundVideo)" type="video/mp4">
   </video>
   <!-- Floating Title -->
-  <div class="container h-40 position-relative z-1 text-center align-items-center bg-transparent">
+  <div class="container-md h-40 my-5 text-center align-items-center bg-transparent">
     <div class="row">
       <p class="fs-1 fw-bold text-white">Sean Canning</p>
       <p class="fs-3 text-white">Software Engineer</p>
     </div>
   </div>
   <!-- Nav Cards -->
-  <div class="container-fluid h-75 text-center align-middle">
-    <div class="row h-100">
-      <div class="col">
-        <div class="card h-100 nav-card">
-          <img src="..." class="card-img" alt="...">
+  <div class="container-fluid h-50 px-5 text-center align-middle">
+    <div class="row h-100 gx-5">
+      <div class="col p-1 m-3">
+        <div class="card h-100 nav-card overflow-hidden">
+          <video class="card-video" autoplay="autoplay" muted="muted" loop="loop" class="vw-100 position-absolute z-n1">
+            <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
+          </video>
           <div class="card-img-overlay">
             <h3 class="card-title">Projects</h3>
           </div>
         </div>
       </div>
-      <div class="col">
-        <div class="card h-100 nav-card">
-          <img src="..." class="card-img" alt="...">
-          <div class="card-img-overlay">
+      <div class="col p-1 m-3">
+        <div class="card h-100 m-0 nav-card overflow-hidden">
+          <video class="card-video" autoplay="autoplay" muted="muted" loop="loop" class="vw-100 position-absolute z-n1">
+            <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
+          </video>
+          <div class="card-img-overlay m-0">
             <h3 class="card-title">About</h3>
           </div>
         </div>
       </div>
-      <div class="col">
-        <div class="card h-100 nav-card">
-          <img src="..." class="card-img" alt="...">
+      <div class="col p-1 m-3">
+        <div class="card h-100 m-0 nav-card overflow-hidden">
+          <video class="card-video" autoplay="autoplay" muted="muted" loop="loop" class="vw-100 position-absolute z-n1">
+            <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
+          </video>
           <div class="card-img-overlay">
             <h3 class="card-title">Contact</h3>
           </div>
         </div>
       </div>
-      <div class="col">
-        <div class="card h-100 nav-card">
-          <img src="..." class="card-img" alt="...">
+      <div class="col p-1 m-3">
+        <div class="card h-100 nav-card overflow-hidden">
+          <video class="card-video" autoplay="autoplay" muted="muted" loop="loop" class="vw-100 position-absolute z-n1">
+            <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
+          </video>
           <div class="card-img-overlay">
-            <h3 class="card-title">Another</h3>
+            <h3 class="card-title">Another One</h3>
           </div>
         </div>
       </div>
