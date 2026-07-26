@@ -1,0 +1,1109 @@
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\appsettings.json
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Portfolio.staticwebassets.runtime.json
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Portfolio.staticwebassets.endpoints.json
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Portfolio.exe
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Portfolio.deps.json
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Portfolio.runtimeconfig.json
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Portfolio.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Portfolio.pdb
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfo.cs
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.RazorAssemblyInfo.cache
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.RazorAssemblyInfo.cs
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\scopedcss\bundle\Portfolio.styles.css
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\scopedcss\projectbundle\Portfolio.bundle.scp.css
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\22wp8f1e4x-b9sayid5wm.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\i8a7oyvh0y-61n19gt1b8.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\7hmf3ifchj-xtxxf3hu2r.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\z9ox1p0g2z-bqjiyaj88i.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\7kugpp8rjx-c2jlpeoesf.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\qagkczq6cx-erw9l3u2r3.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\zxz9lswtwm-aexeepp0ev.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\p326he77qt-d7shbmvgxk.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\xbtpbwjmom-ausgxo2sd3.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\k18p7jfx34-k8d9w2qqmf.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\4535tkytty-cosvhxvwiu.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\k9vp9pv57h-ub07r2b239.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\t9eyt8wvbe-fvhpjtyr6v.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\h3t8wqduc0-b7pk76d08c.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\evrzo3hhn6-fsbi9cje9m.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\47co4ve3ym-rzd6atqjts.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\3smmzs87vb-ee0r1s7dh0.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\5l00xpcq37-dxx9fxp4il.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\i151mu48b1-jd9uben2k1.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\437vnc4isx-khv3u5hwcm.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\otv1qcyeme-r4e9w2rdcm.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\3mhyv8ij8g-lcd1t2u6c8.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\8wuinnjvnt-c2oey78nd0.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\5bnlrm37bo-tdbxkamptv.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\ubxwx92899-j5mq2jizvt.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\sk15c2erqh-06098lyss8.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\03336qkajk-nvvlpmu67g.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\9h4bzwcp7r-pj5nd1wqec.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\uy7al7aj8l-46ein0sx1k.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\f7kgp2z9a3-v0zj4ognzu.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\a01wpfw6yy-37tfw0ft22.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\fvrp1jtv5d-hrwsygsryq.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\dkh9mcebxf-pk9g2wxc8p.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\xwkyvsje9o-ft3s53vfgj.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\j5dqdkacdn-6cfz1n2cew.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\k6ssy08qn4-6pdc2jztkx.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\wmaz2gcpbc-493y06b0oq.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\tmbr28ygka-iovd86k7lj.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\rywi3dijcq-vr1egmr9el.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\8q1zzznmrt-kbrnm935zg.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\rpo87nju3p-jj8uyg4cgr.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\u2mtnc649t-y7v9cxd14o.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\yf5jrlpem0-notf2xhcfb.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\1p4e9hy8wt-h1s4sie4z3.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\hu67gzmg1y-63fj8s7r0e.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\phhm22dp1m-0j3bgjxly4.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\fdpz41od7i-47otxtyo56.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\2fwjug48hd-4v8eqarkd7.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\dpcfgdgrwg-356vix0kms.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\3dtmyl5dm5-83jwlth58m.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\b530s8j6km-mrlpezrjn3.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\pzbeghu76g-lzl9nlhx6b.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\eftf0es2hv-ag7o75518u.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\c86h0gpi3k-x0q3zqp4vz.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\2qmeauuoeo-0i3buxo5is.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\mytvxywh7l-o1o13a6vjx.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\r7kvdrrdqu-ttgo8qnofa.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\8le863hzxk-2z0ns9nrw6.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\2wn7fz13ex-muycvpuwrr.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\nbmoiverw5-87fc7y1x7t.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\rbnbye0i6s-mlv21k5csn.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\fctagi56cc-2quiuhkwyf.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\3vkrp9z1r6-2quiuhkwyf.gz
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.dll
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\refint\Portfolio.dll
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.pdb
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.genruntimeconfig.cache
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Humanizer.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\Portfolio.csproj.Up2Date
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Documents\Work\Portfolio\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Work\Portfolio\obj\Debug\net9.0\compressed\gl612mpinz-0sxwzu0kd8.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\appsettings.json
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Portfolio.staticwebassets.endpoints.json
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Portfolio.staticwebassets.runtime.json
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Portfolio.exe
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Portfolio.deps.json
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Portfolio.runtimeconfig.json
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Portfolio.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Portfolio.pdb
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Humanizer.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfo.cs
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.RazorAssemblyInfo.cache
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.RazorAssemblyInfo.cs
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\scopedcss\bundle\Portfolio.styles.css
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\scopedcss\projectbundle\Portfolio.bundle.scp.css
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\i8a7oyvh0y-61n19gt1b8.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\7hmf3ifchj-xtxxf3hu2r.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\z9ox1p0g2z-bqjiyaj88i.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\7kugpp8rjx-c2jlpeoesf.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\qagkczq6cx-erw9l3u2r3.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\zxz9lswtwm-aexeepp0ev.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\p326he77qt-d7shbmvgxk.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\xbtpbwjmom-ausgxo2sd3.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\k18p7jfx34-k8d9w2qqmf.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\4535tkytty-cosvhxvwiu.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\k9vp9pv57h-ub07r2b239.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\t9eyt8wvbe-fvhpjtyr6v.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\h3t8wqduc0-b7pk76d08c.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\evrzo3hhn6-fsbi9cje9m.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\47co4ve3ym-rzd6atqjts.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\3smmzs87vb-ee0r1s7dh0.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\5l00xpcq37-dxx9fxp4il.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\i151mu48b1-jd9uben2k1.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\437vnc4isx-khv3u5hwcm.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\otv1qcyeme-r4e9w2rdcm.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\3mhyv8ij8g-lcd1t2u6c8.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\8wuinnjvnt-c2oey78nd0.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\5bnlrm37bo-tdbxkamptv.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\ubxwx92899-j5mq2jizvt.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\sk15c2erqh-06098lyss8.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\03336qkajk-nvvlpmu67g.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\gl612mpinz-0sxwzu0kd8.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\9h4bzwcp7r-pj5nd1wqec.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\uy7al7aj8l-46ein0sx1k.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\f7kgp2z9a3-v0zj4ognzu.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\a01wpfw6yy-37tfw0ft22.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\fvrp1jtv5d-hrwsygsryq.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\dkh9mcebxf-pk9g2wxc8p.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\xwkyvsje9o-ft3s53vfgj.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\j5dqdkacdn-6cfz1n2cew.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\k6ssy08qn4-6pdc2jztkx.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\wmaz2gcpbc-493y06b0oq.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\tmbr28ygka-iovd86k7lj.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\rywi3dijcq-vr1egmr9el.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\8q1zzznmrt-kbrnm935zg.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\rpo87nju3p-jj8uyg4cgr.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\u2mtnc649t-y7v9cxd14o.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\yf5jrlpem0-notf2xhcfb.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\1p4e9hy8wt-h1s4sie4z3.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\hu67gzmg1y-63fj8s7r0e.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\phhm22dp1m-0j3bgjxly4.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\fdpz41od7i-47otxtyo56.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\2fwjug48hd-4v8eqarkd7.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\dpcfgdgrwg-356vix0kms.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\3dtmyl5dm5-83jwlth58m.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\b530s8j6km-mrlpezrjn3.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\pzbeghu76g-lzl9nlhx6b.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\eftf0es2hv-ag7o75518u.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\c86h0gpi3k-x0q3zqp4vz.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\2qmeauuoeo-0i3buxo5is.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\mytvxywh7l-o1o13a6vjx.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\r7kvdrrdqu-ttgo8qnofa.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\8le863hzxk-2z0ns9nrw6.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\2wn7fz13ex-muycvpuwrr.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\nbmoiverw5-87fc7y1x7t.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\rbnbye0i6s-mlv21k5csn.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\fctagi56cc-2quiuhkwyf.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\3vkrp9z1r6-2quiuhkwyf.gz
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.csproj.Up2Date
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\refint\Portfolio.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.pdb
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.genruntimeconfig.cache
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\Portfolio.sourcelink.json
+C:\Users\User\Documents\VS Code Files\Portfolio\obj\Debug\net9.0\compressed\22wp8f1e4x-wodp18wjul.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\appsettings.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Portfolio.staticwebassets.runtime.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Portfolio.staticwebassets.endpoints.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Portfolio.exe
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Portfolio.deps.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Portfolio.runtimeconfig.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Portfolio.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Portfolio.pdb
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfo.cs
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.RazorAssemblyInfo.cache
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.RazorAssemblyInfo.cs
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.sourcelink.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\scopedcss\bundle\Portfolio.styles.css
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\scopedcss\projectbundle\Portfolio.bundle.scp.css
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\8mfu681els-{0}-wodp18wjul-wodp18wjul.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\7u0i9x6hv8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\1y9vpx44du-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\fkmehnfzni-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\6si91vzy89-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\rv86f6bpew-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\03k3tvmjkd-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\rou302czfn-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\ks3fol76vh-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\nfo7kzyeus-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\te1i1o0u1m-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\lcr2ypen0z-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\shobcf1kf8-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\5p4dk8cv1u-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\i22cwpy82z-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\34p07ecc72-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\k7q9apbl4e-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\mshug1kcoo-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\45hmyfr4fr-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\whimujvpnh-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\s29au5h0ds-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\4eycwvkmhf-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\xedfgqm8fw-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\hc7tmzvpxn-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\qd0d416kq7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\0vlxiiu7c4-{0}-keugtjm085-keugtjm085.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\1qozvdhrdz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\1ugau2wqsy-{0}-tijpcqjnhy-tijpcqjnhy.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\i4ieie74la-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\g4r5u899qc-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\wh2mcog5ur-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\6d9elmpa06-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\aohrawcm1z-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\w8xrxmxn6x-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\h5o5bqy16u-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\fcu3otlbi2-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\gg6us58dx2-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\nuu3zlpfcf-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\5wv70ux6x7-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\pu8azap1tu-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\d9dkpiut6c-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\ivbfe18yhi-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\uygo3x1p8r-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\4pono7b0l9-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\5oapw1ihty-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\lwrwrz55tk-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\qbjgz7wzs3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\70du3h7cok-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\u2btjs1gbb-{0}-48y08845bh-48y08845bh.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\n28hxa5ue0-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\4rtjiasruo-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\qpr1a1xate-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\8lugm0oijm-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\ri2cgflg5k-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\pwyobwteuo-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\yodm3zeir5-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\8p9l2svulq-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\a7xpq4jcfc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\usxtcgtjlj-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\yldnu9xwon-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\bezaecxq4y-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\uwl4v426c5-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\dq6x3a8ph8-{0}-2m8pomi6be-2m8pomi6be.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\rbv2ka4glg-{0}-2m8pomi6be-2m8pomi6be.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.csproj.Up2Date
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\refint\Portfolio.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.pdb
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.genruntimeconfig.cache
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
