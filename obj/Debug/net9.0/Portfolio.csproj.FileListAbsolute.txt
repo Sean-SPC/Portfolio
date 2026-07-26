@@ -1059,7 +1059,6 @@ C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\c
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\qd0d416kq7-{0}-j5mq2jizvt-j5mq2jizvt.gz
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\0vlxiiu7c4-{0}-keugtjm085-keugtjm085.gz
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\1qozvdhrdz-{0}-nvvlpmu67g-nvvlpmu67g.gz
-C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\1ugau2wqsy-{0}-tijpcqjnhy-tijpcqjnhy.gz
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\i4ieie74la-{0}-pj5nd1wqec-pj5nd1wqec.gz
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\g4r5u899qc-{0}-43atpzeawx-43atpzeawx.gz
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\wh2mcog5ur-{0}-v0zj4ognzu-v0zj4ognzu.gz
@@ -1107,3 +1106,8 @@ C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\r
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.pdb
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\Portfolio.genruntimeconfig.cache
 C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\dun8a5aj9z-{0}-rmt7qdzic1-rmt7qdzic1.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\k6dy71oxbo-{0}-fzbfpb1fv5-fzbfpb1fv5.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\jxnuohedns-{0}-zwb1dn8qtq-zwb1dn8qtq.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\1ugau2wqsy-{0}-qvxxn6tfnp-qvxxn6tfnp.gz
+C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\obj\Debug\net9.0\compressed\bvy9f6l186-{0}-lm5c615rwc-lm5c615rwc.gz
