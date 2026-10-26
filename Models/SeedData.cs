@@ -14,6 +14,10 @@ public static class SeedData
             serviceProvider.GetRequiredService<
                 DbContextOptions<PortfolioContext>>()))
         {
+            // Ensure database directory exists and apply pending migrations
+            Directory.CreateDirectory("Database");
+            context.Database.Migrate();
+
             // Look for any project.
             if (context.Project.Any())
             {

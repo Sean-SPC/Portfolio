@@ -4,17 +4,6 @@ using Portfolio.Data;
 using Portfolio.Models;
 var builder = WebApplication.CreateBuilder(args);
 
-if (builder.Environment.IsDevelopment())
-{
-    builder.Services.AddDbContext<PortfolioContext>(options =>
-        options.UseSqlite(builder.Configuration.GetConnectionString("MvcMovieContext")));
-}
-else
-{
-    builder.Services.AddDbContext<PortfolioContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionMvcMovieContext")));
-}
-
 builder.Services.AddDbContext<PortfolioContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("PortfolioContext") ?? throw new InvalidOperationException("Connection string 'PortfolioContext' not found.")));
 
