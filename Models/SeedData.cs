@@ -26,15 +26,17 @@ public static class SeedData
             context.Project.AddRange(
                 new Project
                 {
-                    ProjectName = "Project 1",
-                    LastUpdated = DateTime.Parse("2025-10-20"),
+                    ID = "1",
+                    Name = "Portfolio",
+                    HTML_URL = "https://github.com/Sean-SPC/Portfolio",
                     Language = "C#"
                 },
                 new Project
                 {
-                    ProjectName = "Project 2",
-                    LastUpdated = DateTime.Parse("2025-10-25"),
-                    Language = "Java"
+                    ID = "2",
+                    Name = "Sample-Project",
+                    HTML_URL = "https://github.com",
+                    Language = "JavaScript"
                 }
             );
             context.SaveChanges();
