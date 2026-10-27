@@ -1,25 +1,40 @@
+using System.Net.Http.Headers;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Portfolio.Data;
 using Portfolio.Models;
+using Portfolio.Services;
 var builder = WebApplication.CreateBuilder(args);
-
-if (builder.Environment.IsDevelopment())
-{
-    builder.Services.AddDbContext<PortfolioContext>(options =>
-        options.UseSqlite(builder.Configuration.GetConnectionString("MvcMovieContext")));
-}
-else
-{
-    builder.Services.AddDbContext<PortfolioContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionMvcMovieContext")));
-}
 
 builder.Services.AddDbContext<PortfolioContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("PortfolioContext") ?? throw new InvalidOperationException("Connection string 'PortfolioContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpClient<IGitHubService, GitHubService>(
+    (serviceProvider, client) =>
+    {
+        var configuration =
+            serviceProvider.GetRequiredService<IConfiguration>();
+
+        var token = configuration["GitHub:Token"]
+            ?? throw new InvalidOperationException(
+                "GitHub token is not configured.");
+
+        client.BaseAddress = new Uri("https://api.github.com/");
+
+        client.DefaultRequestHeaders.UserAgent.ParseAdd("MyApp");
+
+        client.DefaultRequestHeaders.Authorization =
+            new AuthenticationHeaderValue("Bearer", token);
+
+        client.DefaultRequestHeaders.Accept.Add(
+            new MediaTypeWithQualityHeaderValue(
+                "application/vnd.github+json"));
+    });
+
+builder.Services.AddScoped<ProjectSyncService>();
 
 var app = builder.Build();
 
