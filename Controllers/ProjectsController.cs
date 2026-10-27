@@ -7,34 +7,58 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Portfolio.Data;
 using Portfolio.Models;
+using Portfolio.Services;
 
 namespace Portfolio.Controllers
 {
     public class ProjectsController : Controller
     {
         private readonly PortfolioContext _context;
+        private readonly IGitHubService _gitHubService;
+        private readonly ProjectSyncService _syncService;
 
-        public ProjectsController(PortfolioContext context)
+        public ProjectsController(PortfolioContext context, IGitHubService gitHubService, ProjectSyncService syncService)
         {
             _context = context;
+            _gitHubService = gitHubService;
+            _syncService = syncService;
         }
 
         // GET: Projects
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Project.ToListAsync());
+            return View(await _context.Projects.ToListAsync());
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetProjects()
+        {
+            var projects = await _context.Projects
+                .AsNoTracking()
+                .OrderBy(p => p.Name)
+                .ToListAsync();
+
+            return Json(projects);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> SyncProjects()
+        {
+            await _syncService.SyncAsync();
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Projects/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Details(string? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var project = await _context.Project
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var project = await _context.Projects
+                .FirstOrDefaultAsync(m => m.ID == id);
             if (project == null)
             {
                 return NotFound();
@@ -50,11 +74,9 @@ namespace Portfolio.Controllers
         }
 
         // POST: Projects/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,ProjectName,LastUpdated,Language")] Project project)
+        public async Task<IActionResult> Create([Bind("ID,Name,HTML_URL,Language")] Project project)
         {
             if (ModelState.IsValid)
             {
@@ -66,14 +88,14 @@ namespace Portfolio.Controllers
         }
 
         // GET: Projects/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(string? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var project = await _context.Project.FindAsync(id);
+            var project = await _context.Projects.FindAsync(id);
             if (project == null)
             {
                 return NotFound();
@@ -82,13 +104,11 @@ namespace Portfolio.Controllers
         }
 
         // POST: Projects/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,ProjectName,LastUpdated,Language")] Project project)
+        public async Task<IActionResult> Edit(string id, [Bind("ID,Name,HTML_URL,Language")] Project project)
         {
-            if (id != project.Id)
+            if (id != project.ID)
             {
                 return NotFound();
             }
@@ -102,7 +122,7 @@ namespace Portfolio.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProjectExists(project.Id))
+                    if (!ProjectExists(project.ID))
                     {
                         return NotFound();
                     }
@@ -117,15 +137,15 @@ namespace Portfolio.Controllers
         }
 
         // GET: Projects/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(string? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var project = await _context.Project
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var project = await _context.Projects
+                .FirstOrDefaultAsync(m => m.ID == id);
             if (project == null)
             {
                 return NotFound();
@@ -137,21 +157,21 @@ namespace Portfolio.Controllers
         // POST: Projects/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task<IActionResult> DeleteConfirmed(string id)
         {
-            var project = await _context.Project.FindAsync(id);
+            var project = await _context.Projects.FindAsync(id);
             if (project != null)
             {
-                _context.Project.Remove(project);
+                _context.Projects.Remove(project);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ProjectExists(int id)
+        private bool ProjectExists(string id)
         {
-            return _context.Project.Any(e => e.Id == id);
+            return _context.Projects.Any(e => e.ID == id);
         }
     }
 }

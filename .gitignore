@@ -288,4 +288,9 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
-Database/*
+# SQLite
+*.db-shm
+*.db-wal
+
+github-token.txt
+Database/*.db
