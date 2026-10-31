@@ -1,0 +1,126 @@
+:root {
+    --dimensions: 60px;
+    --font-size: 36px;
+    --interval: 0.35s;
+    --duration: 2s;
+    --spacing: 75px;
+    /* positive is down - negative is up */
+
+    --steps-to-make: 3;
+    --current-mid: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+}
+
+.letter-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 60px;
+    height: 200px;
+}
+
+.letter-container>div {
+    position: absolute;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 10px;
+
+    width: 60px;
+    height: 60px;
+    box-sizing: border-box;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.letter {
+    color: white;
+    font-weight: bold;
+}
+
+.upper {
+    top: calc(-1 * var(--spacing));
+}
+
+.middle {
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    animation: roll-middle 4s ease var(--d) infinite;
+}
+
+.lower {
+    top: var(--spacing);
+}
+
+.upper,
+.lower {
+    opacity: 0;
+    animation: roll-edge 4s ease var(--d, 0s) infinite;
+}
+
+:is(.upper, .lower):not(.active) {
+    opacity: 0 !important;
+}
+
+@keyframes roll-middle {
+    0% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+    25% {
+        transform: translateY(calc(var(--r) * var(--spacing)));
+        opacity: 0;
+    }
+
+    50% {
+        transform: translateY(calc(var(--r) * var(--spacing)));
+        opacity: 0;
+    }
+
+    60% {
+        transform: translateY(0);
+        opacity: 0;
+    }
+
+    70% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+
+@keyframes roll-edge {
+    0% {
+        transform: translateY(0);
+    }
+
+    25% {
+        transform: translateY(calc(var(--r) * var(--spacing)));
+        opacity: 1;
+    }
+
+    75% {
+        transform: translateY(calc(var(--r) * var(--spacing)));
+        opacity: 1;
+    }
+
+    85% {
+        transform: translateY(calc(var(--r) * var(--spacing)));
+        opacity: 0;
+    }
+
+    95% {
+        transform: translateY(0);
+    }
+}

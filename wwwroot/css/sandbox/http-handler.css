@@ -31,7 +31,7 @@
 }
 
 #server.animating~.packet {
-    animation: send-packet var(--packet-duration) ease-in-out calc(var(--p) * var(--packet-interval)) both;
+    animation: send-packet var(--packet-duration) ease-in-out calc(var(--n) * var(--packet-interval)) both;
 }
 
 #server img {

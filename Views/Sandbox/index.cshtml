@@ -2,7 +2,8 @@
     ViewData["Title"] = "Sandbox";
 }
 
-<link rel="stylesheet" href="~/css/sandbox/http-handler.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/sandbox/wordle-crkr.css" asp-append-version="true" />
+<script src="~/js/sandbox/wordle-crkr.js" asp-append-version="true"></script>
 @* 
 <div id="container">
     <div id="upper-container" class="heading-container">
@@ -19,17 +20,52 @@
 
 @* HTTP Handler *@
 
-<script src="~/js/sandbox/http-handler.js" asp-append-version="true"></script>
+@* <script src="~/js/sandbox/http-handler.js" asp-append-version="true"></script>
 <div id="container">
     <span id="server">
         <img id="server-base" src="~/src/svg/server.svg" alt="Database"/>
         <img id="server-red" src="~/src/svg/server-red.svg" alt="Database" class="upper-server"/>
-        @* <img id="server-green" src="~/src/svg/server-green.svg" alt="Database" class="upper-server"/> *@
+        <img id="server-green" src="~/src/svg/server-green.svg" alt="Database" class="upper-server"/>
         <img id="server-red" src="~/src/svg/server-red.svg" alt="Database" class="lower-server"/>
-        @* <img id="server-green" src="~/src/svg/server-green.svg" alt="Database" class="lower-server"/> *@
+        <img id="server-green" src="~/src/svg/server-green.svg" alt="Database" class="lower-server"/>
     </span>
     <span class="packet" style="--p: 0"><img src="~/src/svg/packet.svg" alt="packet"/></span>
     <span class="packet" style="--p: 1"><img src="~/src/svg/packet.svg" alt="packet"/></span>
     <span class="packet" style="--p: 2"><img src="~/src/svg/packet.svg" alt="packet"/></span>
     <span class="packet" style="--p: 3"><img src="~/src/svg/packet.svg" alt="packet"/></span>
+</div> *@
+
+@* Wordle Crkr *@
+
+<div class="container">
+    <div class="letter-container" style="--n: 0; --d: 0s; --r: -1;">
+        <div class="upper"><span class="letter">A</span></div>
+        <div class="middle"><span class="letter">B</span></div>
+        <div class="lower active"><span class="letter">C</span></div>
+    </div>
+    <div class="letter-container" style="--n: 0; --d: 1s; --r: 1;">
+        <div class="upper active"><span class="letter">A</span></div>
+        <div class="middle"><span class="letter">B</span></div>
+        <div class="lower"><span class="letter">C</span></div>
+    </div>
+    <div class="letter-container" style="--n: 0; --d: 0.6s; --r: -1;">
+        <div class="upper"><span class="letter">A</span></div>
+        <div class="middle"><span class="letter">B</span></div>
+        <div class="lower active"><span class="letter">C</span></div>
+    </div>
+    <div class="letter-container" style="--n: 0; --d: 1.4s; --r: -1;">
+        <div class="upper"><span class="letter">A</span></div>
+        <div class="middle"><span class="letter">B</span></div>
+        <div class="lower active"><span class="letter">C</span></div>
+    </div>
+    <div class="letter-container" style="--n: 0; --d: 0.2s; --r: -1;">
+        <div class="upper"><span class="letter">A</span></div>
+        <div class="middle"><span class="letter">B</span></div>
+        <div class="lower active"><span class="letter">C</span></div>
+    </div>
+    <div class="letter-container" style="--n: 0; --d: 0.8s; --r: -1;">
+        <div class="upper"><span class="letter">A</span></div>
+        <div class="middle"><span class="letter">B</span></div>
+        <div class="lower active"><span class="letter">C</span></div>
+    </div>
 </div>
