@@ -1,0 +1,153 @@
+/* ROOT */
+
+:root {
+    /* Title */
+    --title-text: #FFFFFF;
+    --title-ft-size: 4em;
+    --title-ft-weight: bold;
+    --title-bg-colour: blue;
+    --title-height: 15vh;
+
+    /* Subtitle */
+    --subtitle-text: #FFFFFF;
+    --subtitle-ft-size: 1.5em;
+    --subtitle-ft-weight: normal;
+    --subtitle-bg-colour: grey;
+    --subtitle-height: 5vh;
+    --subtitle-buffer: 2vh;
+
+    /* Underlay */
+    --underlay-bg-colour: #222222;
+}
+
+/* MAIN CONTAINER */
+
+#container {
+    /* Layout & positioning */
+    display: flex;
+    position: relative;
+
+    /* Flexbox */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* TITLE */
+
+.heading-container {
+    /* Layout & positioning */
+    display: flex;
+
+    /* Sizing & spacing */
+    width: 100%;
+    height: var(--title-height);
+
+    /* Flexbox */
+    justify-content: center;
+    align-items: center;
+
+    /* Visual styling */
+    background-color: var(--title-bg-colour);
+}
+
+.heading-txt {
+    /* Typography */
+    font-size: var(--title-ft-size);
+    font-weight: var(--title-ft-weight);
+    color: var(--title-text);
+}
+
+/* UPPER */
+
+#upper-container {
+    /* Layout & positioning */
+    position: relative;
+
+    /* Effects & animation */
+    clip-path: inset(0 0 50% 0);
+    transition: color 1.2s ease;
+}
+
+/* LOWER */
+
+#lower-container {
+    /* Layout & positioning */
+    position: absolute;
+
+    /* Effects & animation */
+    clip-path: inset(50% 0 0 0);
+    transition: transform 1s ease 0.2s;
+}
+
+#container:hover #lower-container {
+    /* Effects & animation */
+    transition: transform 1s ease;
+    transform: translateY(calc(var(--subtitle-height) + (2* var(--subtitle-buffer))));
+}
+
+/* SUBTITLE */
+
+#subtitle-container {
+    /* Layout & positioning */
+    display: flex;
+    position: absolute;
+    z-index: -1;
+    top: calc((var(--title-height) / 2) + var(--subtitle-buffer));
+
+    /* Sizing & spacing */
+    width: 100%;
+    height: var(--subtitle-height);
+
+    /* Flexbox */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* Visual styling */
+    background-color: var(--subtitle-bg-colour);
+
+    /* Effects & animation */
+    clip-path: inset(0 100% 0 0);
+    transition: clip-path 0.3s ease;
+}
+
+#subtitle-txt {
+    /* Typography */
+    color: var(--subtitle-text);
+    font-size: var(--subtitle-ft-size);
+    font-weight: var(--subtitle-ft-weight);
+}
+
+#container:hover #subtitle-container {
+    /* Effects & animation */
+    clip-path: inset(0 0 0 0);
+    transition: clip-path 0.8s ease-out 0.8s;
+}
+
+/* UNDERLAY */
+
+#underlay {
+    /* Layout & positioning */
+    display: flex;
+    position: absolute;
+    z-index: -10;
+    top: calc((var(--title-height) / 2) + var(--subtitle-buffer));
+
+    /* Sizing & Spacing */
+    width: 100%;
+    height: var(--subtitle-height);
+
+    /* Visual styling */
+    background-color: var(--underlay-bg-colour);
+
+    /* Effects & animation */
+    clip-path: inset(0 100% 0 0);
+    transition: clip-path 0.3s ease 0.1s;
+}
+
+#container:hover #underlay {
+    /* Effects & animation */
+    clip-path: inset(0 0 0 0);
+    transition: clip-path 0.7s ease-out 0.6s;
+}

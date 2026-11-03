@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Portfolio.Models;
 
@@ -14,6 +10,7 @@ namespace Portfolio.Data
         {
         }
 
-        public DbSet<Project> Project { get; set; } = default!;
+        public DbSet<Project> Projects { get; set; } = default!;
+        public DbSet<Project> Project { get => Projects; set => Projects = value; }
     }
 }
