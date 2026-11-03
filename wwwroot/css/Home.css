@@ -75,13 +75,17 @@
 
 /* Nav Cards */
 .nav-card {
-  transition-duration: 1s;
+  min-height: 250px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  background-color: #222;
+  transition: transform 0.3s ease;
 }
 
 .nav-card:hover {
-  transition-duration: 1s;
   transform: scale(1.2);
-  background-color: #FD5E53;
+  z-index: 2;
 }
 
 video {

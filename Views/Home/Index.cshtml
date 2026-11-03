@@ -2,6 +2,16 @@
   ViewData["Title"] = "Home Page";
 }
 
+@{
+    var navigationCards = new[]
+    {
+        new { Title = "Projects", Controller = "Projects" },
+        new { Title = "About", Controller = "About" },
+        new { Title = "Contact", Controller = "Contact" },
+        new { Title = "Sandbox", Controller = "Sandbox" }
+    };
+}
+
 @* <script>
     console.log("Running here");
 
@@ -44,55 +54,27 @@
   </div>
   <!-- Nav Cards -->
   <div class="container-fluid h-50 px-5 text-center align-middle">
-    <div class="row h-100 gx-5">
-      <div class="col p-1 m-3">
-        <a asp-area="" asp-controller="Projects" asp-action="Index">
-          <div class="card h-100 nav-card overflow-hidden">
-            <video autoplay muted loop>
-              <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
-            </video>
-            <div class="card-img-overlay">
-              <h3 class="card-title">Projects</h3>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="col p-1 m-3">
-        <a asp-area="" asp-controller="About" asp-action="Index">
-          <div class="card h-100 m-0 nav-card overflow-hidden">
-            <video autoplay muted loop>
-              <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
-            </video>
-            <div class="card-img-overlay m-0">
-              <h3 class="card-title">About</h3>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="col p-1 m-3">
-        <a asp-area="" asp-controller="Contact" asp-action="Index">
-          <div class="card h-100 m-0 nav-card overflow-hidden">
-            <video autoplay muted loop>
-              <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
-            </video>
-            <div class="card-img-overlay">
-              <h3 class="card-title">Contact</h3>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="col p-1 m-3">
-        <a asp-area="" asp-controller="Sandbox" asp-action="Index">
-          <div class="card h-100 nav-card overflow-hidden">
-            <video autoplay muted loop>
-              <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
-            </video>
-            <div class="card-img-overlay">
-              <h3 class="card-title">Sandbox</h3>
-            </div>
-          </div>
-        </a>
-      </div>
+    <div class="row h-100 gx-4 gy-4">
+    @foreach (var card in navigationCards)
+    {
+        <div class="col p-3">
+            <a asp-area=""
+              asp-controller="@card.Controller"
+              asp-action="Index"
+              class="text-decoration-none">
+                <div class="card nav-card position-relative overflow-hidden h-100">
+                    <video autoplay muted loop playsinline class="nav-card-video">
+                        <source src="/src/backgrounds/room-sunset.mp4" type="video/mp4">
+                    </video>
+                    <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
+                        <h3 class="text-white fw-bold mb-0">
+                            @card.Title
+                        </h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    }
     </div>
   </div>
 </div>
