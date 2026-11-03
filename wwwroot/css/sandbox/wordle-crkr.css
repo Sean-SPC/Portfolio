@@ -2,7 +2,7 @@
     --dimensions: 60px;
     --font-size: 36px;
     --interval: 0.35s;
-    --duration: 2s;
+    --duration: 1.6s;
     --spacing: 75px;
     /* positive is down - negative is up */
 
@@ -49,8 +49,8 @@
 }
 
 .middle {
-    transition: transform 0.5s ease, opacity 0.5s ease;
-    animation: roll-middle 4s ease var(--d) infinite;
+    transition: background-color 0.5s ease;
+    animation: roll-middle var(--duration) ease var(--d) infinite;
 }
 
 .lower {
@@ -60,67 +60,86 @@
 .upper,
 .lower {
     opacity: 0;
-    animation: roll-edge 4s ease var(--d, 0s) infinite;
+    animation: roll-edge var(--duration) ease var(--d) infinite;
 }
 
 :is(.upper, .lower):not(.active) {
     opacity: 0 !important;
 }
 
+.letter-container.completed>div {
+    background-color: green;
+}
+
+.letter-container.completed .upper,
+.letter-container.completed .middle,
+.letter-container.completed .lower {
+    animation: none !important;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.letter-container.completed .upper,
+.letter-container.completed .lower {
+    visibility: hidden;
+}
+
+.letter-container.completed .middle {
+    opacity: 1;
+}
+
 @keyframes roll-middle {
+
+    /* Shift */
     0% {
         transform: translateY(0);
         opacity: 1;
     }
 
-    25% {
+    80% {
         transform: translateY(calc(var(--r) * var(--spacing)));
         opacity: 0;
     }
 
-    50% {
-        transform: translateY(calc(var(--r) * var(--spacing)));
-        opacity: 0;
-    }
+    /* Move & Fade In */
 
-    60% {
+    84% {
         transform: translateY(0);
         opacity: 0;
     }
 
-    70% {
-        transform: translateY(0);
-        opacity: 1;
-    }
-
-    100% {
-        transform: translateY(0);
+    88% {
         opacity: 1;
     }
 }
 
 
 @keyframes roll-edge {
+
+    /* Shift */
     0% {
         transform: translateY(0);
+        opacity: 0;
     }
 
-    25% {
+    80% {
         transform: translateY(calc(var(--r) * var(--spacing)));
         opacity: 1;
     }
 
-    75% {
-        transform: translateY(calc(var(--r) * var(--spacing)));
+    /* Fade Out & Move */
+
+    90% {
         opacity: 1;
     }
 
-    85% {
+    95% {
         transform: translateY(calc(var(--r) * var(--spacing)));
         opacity: 0;
     }
 
-    95% {
+    100% {
         transform: translateY(0);
+        opacity: 0;
     }
 }
