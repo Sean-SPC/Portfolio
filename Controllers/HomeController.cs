@@ -26,7 +26,7 @@ public class HomeController : Controller
         int index = rnd.Next(3);
         ViewBag.Loader = sonicLoaders[index];
 
-        string folderPath = @"C:\Users\Seanc\OneDrive\Documents\VS_Code_Workspace\Portfolio\wwwroot\src\backgrounds";
+        string folderPath = @"C:\Users\Seanc\Documents\VS_Code_Workspace\Portfolio\wwwroot\src\backgrounds";
         string[] files = Directory.GetFiles(folderPath, "*.mp4");
 
         if (files.Length == 0)
