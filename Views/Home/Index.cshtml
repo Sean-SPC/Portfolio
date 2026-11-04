@@ -43,8 +43,9 @@
 <div id="page-content" class="vh-100">
   <!-- Background -->
   <video autoplay="autoplay" muted="muted" loop="loop" class="vh-100 position-absolute z-n1">
-    <source src="/src/backgrounds/@(ViewBag.BackgroundVideo)" type="video/mp4">
+    <source id="background-video" src="/src/backgrounds/@(ViewBag.BackgroundVideo)" type="video/mp4">
   </video>
+  @* <img src="~/assets/sonic/background-gif.gif" class="vh-100 position-absolute z-n1"/> *@
   <!-- Floating Title -->
   <div class="container-md h-40 text-center align-items-center bg-transparent">
     <div class="row">

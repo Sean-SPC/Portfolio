@@ -53,6 +53,26 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.MapGet("/api/themes", (IWebHostEnvironment env) =>
+{
+    var assetsPath = Path.Combine(env.WebRootPath, "assets");
+
+    var themes = Directory.GetDirectories(assetsPath)
+        .ToDictionary(
+            directory => Path.GetFileName(directory),
+            directory => Directory.GetFiles(directory)
+                .Where(file =>
+                    new[] { ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg" }
+                    .Contains(Path.GetExtension(file).ToLowerInvariant()))
+                .ToDictionary(
+                    file => Path.GetFileNameWithoutExtension(file),
+                    file => $"/assets/{Path.GetFileName(directory)}/{Path.GetFileName(file)}"
+                )
+        );
+
+    return Results.Json(themes);
+});
+
 app.UseHttpsRedirection();
 app.UseRouting();
 
