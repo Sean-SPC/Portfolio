@@ -3,13 +3,15 @@
 }
 
 @{
-    var navigationCards = new[]
-    {
-        new { Title = "Projects 水", Controller = "Projects", Colour = "#0000FF" },
-        new { Title = "About 風", Controller = "About", Colour = "#928c8cff" },
-        new { Title = "Contact 石", Controller = "Contact", Colour = "#00FF00" },
-        new { Title = "Sandbox 炎", Controller = "Sandbox", Colour = "#FF0000" }
-    };
+  string status = "static";
+
+  var navigationCards = new[]
+  {
+      new { Title = "Projects", Symbol="水", Controller = "Projects", Colour = "#0000FF" },
+      new { Title = "About", Symbol="風", Controller = "About", Colour = "#928c8cff" },
+      new { Title = "Contact", Symbol="石", Controller = "Contact", Colour = "#00FF00" },
+      new { Title = "Sandbox", Symbol="炎", Controller = "Sandbox", Colour = "#FF0000" }
+  };
 }
 
 @* <script>
@@ -56,9 +58,25 @@
   </div>
   <!-- Nav Cards -->
   <div class="container-fluid h-50 px-5 text-center align-middle">
-    <div class="row h-100">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 g-4 justify-content-center">
     @foreach (var card in navigationCards)
     {
+      status = "static";
+      switch (status)
+      {
+        case "static":
+        {
+        <div class="col">
+            <div class="background-text back-card" style="--primary-colour: @card.Colour">
+                <span class="back fw-bold">@card.Symbol</span>
+                <span class="background-text front fw-bold">@card.Title</span>
+            </div>
+        </div>
+        break;
+        }
+        case "dynamic":
+        default:
+        {
         <div class="col p-4">
             <a asp-area=""
               asp-controller="@card.Controller"
@@ -76,6 +94,9 @@
                 </div>
             </a>
         </div>
+        break;
+        }
+      }
     }
     </div>
   </div>
