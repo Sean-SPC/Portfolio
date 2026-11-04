@@ -13,7 +13,11 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">HomePage</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" style="color: #000000; opacity: 1; transform: rotate(0deg);" width="64" height="64" viewBox="0 0 24 24">
+                        <path fill="currentColor" d="M10 20v-6h4v6h5v-8h3L12 3L2 12h3v8z"></path>
+                    </svg>
+                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -89,14 +93,12 @@
             </div>
         </nav>
     </header>
-    <div class="container d-flex justify-content-center">
-        <main role="main" class="">
+        <main role="main" class="w-100">
             @RenderBody()
         </main>
-    </div>
-    <footer class="border-top footer text-muted">
-        <div class="container-fluid z-1">
-            &copy; Sean Canning - Portfolio
+    <footer class="footer text-muted mt-auto justify-content-start">
+        <div class="container-fluid border-top text-start">
+            <p>&copy; Sean Canning - Portfolio</p>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

@@ -5,10 +5,10 @@
 @{
     var navigationCards = new[]
     {
-        new { Title = "Projects", Controller = "Projects" },
-        new { Title = "About", Controller = "About" },
-        new { Title = "Contact", Controller = "Contact" },
-        new { Title = "Sandbox", Controller = "Sandbox" }
+        new { Title = "Projects 水", Controller = "Projects", Colour = "#0000FF" },
+        new { Title = "About 風", Controller = "About", Colour = "#928c8cff" },
+        new { Title = "Contact 石", Controller = "Contact", Colour = "#00FF00" },
+        new { Title = "Sandbox 炎", Controller = "Sandbox", Colour = "#FF0000" }
     };
 }
 
@@ -40,11 +40,13 @@
 </div> *@
 
 <!-- Page Content -->
-<div id="page-content" class="vh-100">
+<div id="page-content" class="position-relative z-1">
   <!-- Background -->
-  <video autoplay="autoplay" muted="muted" loop="loop" class="vh-100 position-absolute z-n1">
-    <source src="/src/backgrounds/@(ViewBag.BackgroundVideo)" type="video/mp4">
-  </video>
+  <div class="background h-100 position-absolute z-n1 w-100">
+    <video autoplay="autoplay" muted="muted" loop="loop">
+      <source src="/src/backgrounds/waves-background-animated.mp4" type="video/mp4">
+    </video>
+  </div>
   <!-- Floating Title -->
   <div class="container-md h-40 text-center align-items-center bg-transparent">
     <div class="row">
@@ -54,10 +56,10 @@
   </div>
   <!-- Nav Cards -->
   <div class="container-fluid h-50 px-5 text-center align-middle">
-    <div class="row h-100 gx-4 gy-4">
+    <div class="row h-100">
     @foreach (var card in navigationCards)
     {
-        <div class="col p-3">
+        <div class="col p-4">
             <a asp-area=""
               asp-controller="@card.Controller"
               asp-action="Index"
@@ -75,6 +77,40 @@
             </a>
         </div>
     }
+    </div>
+  </div>
+  <div class="container-fluid h-auto">
+    <div class="row h-100 bg-white p-3">
+      <div class="col-8 pe-4">
+        <h2 class="fw-bold">Lorem Ipsum</h2>
+        <p>Lorem ipsum dolor sit amet, consec8etur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        </p>
+      </div>
+      <div class="col-4 ps-2">
+        <h2 class="fw-bold">Lorem Ipsum</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        </p>
+      </div>
     </div>
   </div>
 </div>
