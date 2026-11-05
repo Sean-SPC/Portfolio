@@ -15,6 +15,9 @@
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
                     <img id="homeIcon" src="~/assets/${currentTheme}/home-icon.gif" />
+                    @* <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" style="color: #000000; opacity: 1; transform: rotate(0deg);" width="64" height="64" viewBox="0 0 24 24">
+                        <path fill="currentColor" d="M10 20v-6h4v6h5v-8h3L12 3L2 12h3v8z"></path>
+                    </svg> *@
                 </a>
                 @* <script>
                     function changeIcon(value) {
@@ -106,16 +109,14 @@
             </div>
         </nav>
     </header>
-    <div class="container d-flex justify-content-center">
-        <main role="main" class="">
-            @RenderBody()
-        </main>
+    <main role="main" class="w-100">
+        @RenderBody()
+    </main>
+    <div class="container-fluid border-top text-start">
+        <footer class="footer text-muted mt-auto justify-content-start">
+                <span>&copy; Sean Canning - Portfolio</span>
+        </footer>
     </div>
-    <footer class="border-top footer text-muted">
-        <div class="container-fluid z-1">
-            &copy; Sean Canning - Portfolio
-        </div>
-    </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
