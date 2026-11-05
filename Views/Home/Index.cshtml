@@ -5,6 +5,8 @@
 @{
   string status = "static";
   string cardMedia = "image";
+  string currentTheme_Razor = "infamous-bad";
+  int quickCardCount = 0;
 
   var quickCards = new[]
   {
@@ -46,7 +48,7 @@
 <div id="page-content" class="position-relative vh-100">
   @* Background *@
   <div id="background-container" class="position-absolute z-n1 w-100">
-    <img id="background-static" src="~/assets/sonic/background-static.png" class="w-100"/>
+    <img id="background-static" src="~/assets/infamous-good/background.jpg" class="w-100"/>
     @* <video autoplay="autoplay" muted="muted" loop="loop">
       <source src="~/assets/default/backgrounds/waves-background-animated.mp4" type="video/mp4">
     </video> *@
@@ -73,7 +75,7 @@
             @switch (cardMedia)
             {
               case "image":
-                <img src="~/assets/sonic/quick-box.png"/>
+                <img src="@Url.Content($"~/assets/{currentTheme_Razor}/quick-card-{quickCardCount}.jpg")"/>
                 <span>@card.Title</span>
                 break;
               case "video":
@@ -110,6 +112,8 @@
         break;
         }
       }
+
+      quickCardCount++;
     }
     </div>
   </div>

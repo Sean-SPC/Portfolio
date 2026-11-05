@@ -13,18 +13,15 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow">
             <div class="container-fluid">
+                @{        
+                    string currentTheme_Razor = "infamous-bad";
+                }
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                    <img id="homeIcon" src="~/assets/${currentTheme}/{home-icon}" />
+                    <img id="homeIcon" src="@Url.Content($"~/assets/{currentTheme_Razor}/home-icon.jpg")"/>
                     @* <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" style="color: #000000; opacity: 1; transform: rotate(0deg);" width="64" height="64" viewBox="0 0 24 24">
                         <path fill="currentColor" d="M10 20v-6h4v6h5v-8h3L12 3L2 12h3v8z"></path>
                     </svg> *@
                 </a>
-                @* <script>
-                    function changeIcon(value) {
-                        console.log(value);
-                        document.getElementById("homeIcon").src = "/assets/" + value + "/home-icon.gif";
-                    }
-                </script> *@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -69,13 +66,13 @@
                             </li>
                         </div>
                         <li>
-                            <select name="themes" id="themes" onchange="changeTheme(this.value)">
+                            @* <select name="themes" id="themes" onchange="changeTheme(this.value)">
                                 <option value="batman">Batman</option>
                                 <option value="infamous">Infamous</option>
                                 <option value="sonic">Sonic</option>
                                 <option value="harry-potter">Harry Potter</option>
                                 <option value="uncharted">Uncharted</option>
-                            </select>
+                            </select> *@
                         </li>
                     </ul>
                 </div>
@@ -117,7 +114,7 @@
             </div>
         </nav>
     </header>
-    <main role="main">
+    <main role="main" class="w-100">
         @RenderBody()
     </main>
     <div class="container-fluid border-top text-start">
