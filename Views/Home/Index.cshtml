@@ -49,7 +49,7 @@
 <div id="page-content" class="position-relative vh-100">
   @* Background *@
   <div id="background-container" class="position-absolute z-n1 w-100">
-    <img id="background-static" src="@ViewData["Background"]" class="w-100"/>
+    <img id="background-static" src="@ViewData["Background"]" class="w-100" />
     @* <video autoplay="autoplay" muted="muted" loop="loop">
       <source src="~/assets/default/backgrounds/waves-background-animated.mp4" type="video/mp4">
     </video> *@
@@ -64,62 +64,59 @@
   @* Quick Cards *@
   <div class="container-fluid h-25 px-5 align-middle justify-content-center">
     <div class="row justify-content-center h-100">
-    @foreach (var card in quickCards)
-    {
-      status = "static";
-      switch (status)
+      @foreach (var card in quickCards)
       {
-        case "static":
+        status = "dynamic";
+        switch (status)
         {
-          <div class="col p-3 h-100">
-            <div class="quick-card" style="--primary-colour: @card.Colour">
-            @switch (cardMedia)
+          case "static":
             {
-              case "image":
-                <img src="@ViewData[$"quick-card-{quickCardCount}"]" />
-                @* @ { 
-                  Console.WriteLine(currentTheme); 
-                  Console.WriteLine(quickCardCount); 
-                } *@
-                <span>@card.Title</span>
-                break;
-              case "video":
-                <video autoplay="autoplay" muted="muted" loop="loop">
-                  <source src="~/assets/default/backgrounds/waves-background-animated.mp4" type="video/mp4">
-                </video>
-                <span>@card.Title</span>
-                break;
+              <div class="col p-3 h-100">
+                <div class="quick-card" style="--primary-colour: @card.Colour">
+                  @switch (cardMedia)
+                  {
+                    case "image":
+                      <img src="@ViewData[$"quick-card-{quickCardCount}"]" />
+                      @* @ { 
+                        Console.WriteLine(currentTheme); 
+                        Console.WriteLine(quickCardCount); 
+                      } *@
+                      <span>@card.Title</span>
+                      break;
+                    case "video":
+                      <video autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="~/assets/default/backgrounds/waves-background-animated.mp4" type="video/mp4">
+                      </video>
+                      <span>@card.Title</span>
+                      break;
+                  }
+                </div>
+              </div>
+              break;
             }
-            </div>
-          </div>
-          break;
-        }
-        case "dynamic":
-        default:
-        {
-        <div class="col p-4">
-            <a asp-area=""
-              asp-controller="@card.Controller"
-              asp-action="Index"
-              class="text-decoration-none">
-                <div class="card nav-card position-relative overflow-hidden h-100">
+          case "dynamic":
+          default:
+            {
+              <div class="col p-4">
+                <a asp-area="" asp-controller="@card.Controller" asp-action="Index" class="text-decoration-none">
+                  <div class="card nav-card position-relative overflow-hidden h-100">
                     <video autoplay muted loop playsinline class="nav-card-video">
-                        <source src="~/assets/default/backgrounds/room-sunset.mp4" type="video/mp4">
+                      <source src="~/assets/default/backgrounds/room-sunset.mp4" type="video/mp4">
                     </video>
                     <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
-                        <h3 class="text-white fw-bold mb-0">
-                            @card.Title
-                        </h3>
+                      <h3 class="text-white fw-bold mb-0">
+                        @card.Title
+                      </h3>
                     </div>
-                </div>
-            </a>
-        </div>
-        break;
+                  </div>
+                </a>
+              </div>
+              break;
+            }
         }
-      }
 
-      quickCardCount++;
-    }
+        quickCardCount++;
+      }
     </div>
   </div>
   @* Main Body *@
@@ -127,36 +124,40 @@
     <div class="row h-100 bg-white p-3">
       <div class="col-8 pe-4">
         <h2 class="fw-bold">Lorem Ipsum</h2>
-        <p>Lorem ipsum dolor sit amet, consec8etur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        <p>Lorem ipsum dolor sit amet, consec8etur adipiscing elit,
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+          laborum."
         
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+          laborum."
         </p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+          laborum."
         </p>
       </div>
       <div class="col-4 ps-2">
         <h2 class="fw-bold">Lorem Ipsum</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+          laborum."
         </p>
       </div>
     </div>
   </div>
 </div>
-<link rel="stylesheet" href="css/Home.css"/>
+<link rel="stylesheet" href="css/Home.css" />
 @* <script src="js/Home.js"/> *@

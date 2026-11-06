@@ -1,26 +1,25 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Portfolio</title>
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/Layout.css"/>
+    <link rel="stylesheet" href="~/css/Layout.css" />
     <link rel="stylesheet" href="~/Portfolio.styles.css" asp-append-version="true" />
 </head>
+
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                    <img id="homeIcon" src="@ViewData["HomeIcon"]"/>
-                    @* <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" style="color: #000000; opacity: 1; transform: rotate(0deg);" width="64" height="64" viewBox="0 0 24 24">
-                        <path fill="currentColor" d="M10 20v-6h4v6h5v-8h3L12 3L2 12h3v8z"></path>
-                    </svg> *@
+                    <img id="homeIcon" src="@ViewData["HomeIcon"]" />
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <!-- PAGE NAVIGATION -->
@@ -28,7 +27,8 @@
                     <ul class="navbar-nav flex-grow-1">
                         <div class="banner">
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Projects" asp-action="Index">Projects</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Projects"
+                                   asp-action="Index">Projects</a>
                             </li>
                             @* <div class="banner-items">
                                 <p>Hello!</p>
@@ -41,112 +41,135 @@
                         </div>
                         <div class="banner">
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Contact" asp-action="Index">Contact</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Contact"
+                                   asp-action="Index">Contact</a>
                             </li>
                         </div>
                         <div class="banner">
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="About" asp-action="Index">About</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="About"
+                                   asp-action="Index">About</a>
                             </li>
                         </div>
                         <div class="banner">
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Sandbox" asp-action="Index">Sandbox</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Sandbox"
+                                   asp-action="Index">Sandbox</a>
                             </li>
                         </div>
                         <div class="banner">
                             <li class="nav-item">
-                                <button type="button" class="btn btn-white" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" style="color: #000000; opacity: 1; transform: rotate(0deg);" width="50" height="50" viewBox="0 0 14 16"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64l-.45-1.09l.88-1.84l-1.13-1.13l-1.81.91l-1.09-.45l-.69-1.92h-1.6l-.63 1.94l-1.11.45l-1.84-.88l-1.13 1.13l.91 1.81l-.45 1.09L0 7.23v1.59l1.94.64l.45 1.09l-.88 1.84l1.13 1.13l1.81-.91l1.09.45l.69 1.92h1.59l.63-1.94l1.11-.45l1.84.88l1.13-1.13l-.92-1.81l.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3s3 1.34 3 3s-1.34 3-3 3z" fill="currentColor"></path></svg>
+                                <button type="button" class="btn btn-white" data-bs-toggle="modal"
+                                        data-bs-target="#exampleModal">
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                         aria-hidden="true" role="img"
+                                         style="color: #000000; opacity: 1; transform: rotate(0deg);" width="50"
+                                         height="50" viewBox="0 0 14 16">
+                                        <path fill-rule="evenodd"
+                                              d="M14 8.77v-1.6l-1.94-.64l-.45-1.09l.88-1.84l-1.13-1.13l-1.81.91l-1.09-.45l-.69-1.92h-1.6l-.63 1.94l-1.11.45l-1.84-.88l-1.13 1.13l.91 1.81l-.45 1.09L0 7.23v1.59l1.94.64l.45 1.09l-.88 1.84l1.13 1.13l1.81-.91l1.09.45l.69 1.92h1.59l.63-1.94l1.11-.45l1.84.88l1.13-1.13l-.92-1.81l.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3s3 1.34 3 3s-1.34 3-3 3z"
+                                              fill="currentColor"></path>
+                                    </svg>
                                 </button>
-                                </p>
-                            </li>
-                        </div>
-                    </ul>
-                </div>
-                <div>
-                    <!-- SOCIAL LINKS -->
-                    <div class="d-flex flex-row-reverse gx-5">
-                        <div class="p-3">
-                            <a class="nav-link text-dark" target="_blank" href="https://www.fiverr.com/sean_spc/buying?source=avatar_menu_profile">
-                                <img class="nav-link img-icon" src="/src/images/fiverr.png" alt="fiverr"/>
-                            </a>
-                        </div>
-                        <div class="p-3">
-                            <a class="nav-link text-dark" target="_blank" href="https://profile.hackthebox.com/profile/019c81c0-4f22-7136-8f5d-5599b76993fd">
-                                <img class="nav-link img-icon" src="/src/images/hackthebox.png" alt="HackTheBox"/>
-                            </a>
-                        </div>
-                        <div class="p-3">
-                            <a class="nav-link text-dark" target="_blank" href="https://tryhackme.com/p/SPCTHM">
-                                <img class="nav-link img-icon" src="/src/images/tryhackme.png" alt="TryHackMe"/>
-                            </a>
-                        </div>
-                        <div class="p-3">
-                            <a class="nav-link text-dark" target="_blank" href="https://www.hackerrank.com/profile/seancanning">
-                                <img class="nav-link img-icon" src="/src/images/hackerrank.png" alt="HackerRank"/>
-                            </a>
-                        </div>
-                        <div class="p-3">
-                            <a class="nav-link text-dark text-center" target="_blank" href="https://github.com/Sean-SPC">
-                                <img class="nav-link img-icon" src="/src/images/github.png" alt="GitHub"/>
-                            </a>
-                        </div>
-                        <div class="p-3 text-center">
-                            <a class="nav-link text-dark text-center" target="_blank" href="https://linkedin.com/in/sean-canning-3a2896360">
-                                <img class="nav-link img-icon" src="/src/images/linkedin.png" alt="LinkedIn"/>
-                            </a>
-                        </div>
+                            </p>
+                        </li>
+                    </div>
+                </ul>
+            </div>
+            <div>
+                <!-- SOCIAL LINKS -->
+                <div class="d-flex flex-row-reverse gx-5">
+                    <div class="p-3">
+                        <a class="nav-link text-dark" target="_blank"
+                           href="https://www.fiverr.com/sean_spc/buying?source=avatar_menu_profile">
+                            <img class="nav-link img-icon" src="/src/images/fiverr.png" alt="fiverr" />
+                        </a>
+                    </div>
+                    <div class="p-3">
+                        <a class="nav-link text-dark" target="_blank"
+                           href="https://profile.hackthebox.com/profile/019c81c0-4f22-7136-8f5d-5599b76993fd">
+                            <img class="nav-link img-icon" src="/src/images/hackthebox.png" alt="HackTheBox" />
+                        </a>
+                    </div>
+                    <div class="p-3">
+                        <a class="nav-link text-dark" target="_blank" href="https://tryhackme.com/p/SPCTHM">
+                            <img class="nav-link img-icon" src="/src/images/tryhackme.png" alt="TryHackMe" />
+                        </a>
+                    </div>
+                    <div class="p-3">
+                        <a class="nav-link text-dark" target="_blank"
+                           href="https://www.hackerrank.com/profile/seancanning">
+                            <img class="nav-link img-icon" src="/src/images/hackerrank.png" alt="HackerRank" />
+                        </a>
+                    </div>
+                    <div class="p-3">
+                        <a class="nav-link text-dark text-center" target="_blank"
+                           href="https://github.com/Sean-SPC">
+                            <img class="nav-link img-icon" src="/src/images/github.png" alt="GitHub" />
+                        </a>
+                    </div>
+                    <div class="p-3 text-center">
+                        <a class="nav-link text-dark text-center" target="_blank"
+                           href="https://linkedin.com/in/sean-canning-3a2896360">
+                            <img class="nav-link img-icon" src="/src/images/linkedin.png" alt="LinkedIn" />
+                        </a>
                     </div>
                 </div>
             </div>
-        </nav>
-    </header>
-    <main role="main" class="w-100">
-        @RenderBody()
-    </main>
-    <div class="container-fluid border-top text-start">
-        <footer class="footer text-muted mt-auto justify-content-start">
-                <span>&copy; Sean Canning - Portfolio</span>
-        </footer>
-    </div>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+        </div>
+    </nav>
+</header>
+<main role="main" class="w-100">
+    @RenderBody()
+</main>
+<div class="container-fluid border-top text-start">
+    <footer class="footer text-muted mt-auto justify-content-start">
+        <span>&copy; Sean Canning - Portfolio</span>
+    </footer>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
 </body>
 
-<!-- Button trigger modal -->
+@* SETTINGS MODAL *@
 
-
-<!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <label>Themes:
-            <select name="themes" id="themes" onchange="changeTheme(this.value)">
-                <option value="batman">Batman</option>
-                <option value="infamous">Infamous</option>
-                <option value="sonic">Sonic</option>
-                <option value="harry-potter">Harry Potter</option>
-                <option value="uncharted">Uncharted</option>
-            </select>
-        </Label>
-        <label class="switch">Light Mode:
-            <input type="checkbox">
-            <span class="slider round"></span>
-        </label>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Settings</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col p-4">
+                        <p>Theme:</p>
+                        <select name="themes" id="themes" onchange="changeTheme(this.value)">
+                            <option value="batman">Batman</option>
+                            <option value="infamous">Infamous</option>
+                            <option value="sonic">Sonic</option>
+                            <option value="harry-potter">Harry Potter</option>
+                            <option value="uncharted">Uncharted</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col p-4">
+                        <p>Light/Dark Mode: </p>
+                        <label class="switch">
+                            <input type="checkbox">
+                            <span class="slider round"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
+
 </html>

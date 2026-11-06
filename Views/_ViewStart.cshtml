@@ -1,7 +1,7 @@
 ﻿@{
     var theme = Configuration["Theme:Default"] ?? "default";
     var folder = System.IO.Path.Combine(Environment.WebRootPath, "assets", theme);
-    var extensions = new[] { ".jpg", ".png", ".gif" };
+    var extensions = new[] { ".jpg", ".png", ".gif", ".svg" };
 
     string? FindAsset(string name)
     {
