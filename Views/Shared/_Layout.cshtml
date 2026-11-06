@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@* <script>
+    const currentTheme = @Html.Raw(JsonSerializer.Serialize(currentTheme));
+</script> *@
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -13,11 +17,8 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow">
             <div class="container-fluid">
-                @{        
-                    string currentTheme_Razor = "infamous-bad";
-                }
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                    <img id="homeIcon" src="@Url.Content($"~/assets/{currentTheme_Razor}/home-icon.jpg")"/>
+                    <img id="homeIcon" src="@ViewData["HomeIcon"]"/>
                     @* <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" style="color: #000000; opacity: 1; transform: rotate(0deg);" width="64" height="64" viewBox="0 0 24 24">
                         <path fill="currentColor" d="M10 20v-6h4v6h5v-8h3L12 3L2 12h3v8z"></path>
                     </svg> *@

@@ -2,8 +2,7 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 #homeIcon {
-  height: 100%;
-  background-color: blue;
+  height: 100px;
 }
 
 a.navbar-brand {

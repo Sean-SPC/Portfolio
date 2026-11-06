@@ -1,12 +1,13 @@
 ﻿@{
   ViewData["Title"] = "Home Page";
+  @* var currentTheme = Configuration["Theme:Default"] ?? "infamous-good"; *@
+  var currentTheme = ViewData["CurrentTheme"];
 }
 
 @{
   string status = "static";
   string cardMedia = "image";
-  string currentTheme_Razor = "infamous-bad";
-  int quickCardCount = 0;
+  int quickCardCount = 1;
 
   var quickCards = new[]
   {
@@ -48,7 +49,7 @@
 <div id="page-content" class="position-relative vh-100">
   @* Background *@
   <div id="background-container" class="position-absolute z-n1 w-100">
-    <img id="background-static" src="~/assets/infamous-good/background.jpg" class="w-100"/>
+    <img id="background-static" src="@ViewData["Background"]" class="w-100"/>
     @* <video autoplay="autoplay" muted="muted" loop="loop">
       <source src="~/assets/default/backgrounds/waves-background-animated.mp4" type="video/mp4">
     </video> *@
@@ -56,8 +57,8 @@
   @* Floating Title *@
   <div class="container-fluid text-center align-items-center bg-transparent">
     <div class="row">
-      <p class="fs-1 fw-bold text-white">Sean Canning</p>
-      <p class="fs-3 text-white">Software Engineer</p>
+      <p class="fs-1 fw-bold text-black">Sean Canning</p>
+      <p class="fs-3 text-black">Software Engineer</p>
     </div>
   </div>
   @* Quick Cards *@
@@ -75,7 +76,11 @@
             @switch (cardMedia)
             {
               case "image":
-                <img src="@Url.Content($"~/assets/{currentTheme_Razor}/quick-card-{quickCardCount}.jpg")"/>
+                <img src="@ViewData[$"quick-card-{quickCardCount}"]" />
+                @* @ { 
+                  Console.WriteLine(currentTheme); 
+                  Console.WriteLine(quickCardCount); 
+                } *@
                 <span>@card.Title</span>
                 break;
               case "video":

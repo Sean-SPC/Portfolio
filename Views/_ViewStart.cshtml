@@ -1,3 +1,21 @@
 ﻿@{
+    var theme = Configuration["Theme:Default"] ?? "default";
+    var folder = System.IO.Path.Combine(Environment.WebRootPath, "assets", theme);
+    var extensions = new[] { ".jpg", ".png", ".gif" };
+
+    string? FindAsset(string name)
+    {
+        var file = extensions
+            .Select(ext => name + ext)
+            .FirstOrDefault(file => System.IO.File.Exists(System.IO.Path.Combine(folder, file)));
+
+        return file is null ? null : $"/assets/{theme}/{file}";
+    }
+
+    ViewData["CurrentTheme"] = theme;
+    ViewData["HomeIcon"] = FindAsset("home-icon");
+    ViewData["Background"] = FindAsset("background");
+    for (int i = 1; i < 5; i++) { ViewData[$"quick-card-{i}"] = FindAsset($"quick-card-{i}"); }
+
     Layout = "_Layout";
 }

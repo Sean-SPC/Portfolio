@@ -292,5 +292,7 @@ __pycache__/
 *.db-shm
 *.db-wal
 
+wwwroot/assets/*
+
 github-token.txt
 Database/*.db
