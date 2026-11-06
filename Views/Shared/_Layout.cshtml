@@ -1,8 +1,4 @@
-﻿@* <script>
-    const currentTheme = @Html.Raw(JsonSerializer.Serialize(currentTheme));
-</script> *@
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -10,7 +6,7 @@
     <title>@ViewData["Title"] - Portfolio</title>
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Layout.css"/>
     <link rel="stylesheet" href="~/Portfolio.styles.css" asp-append-version="true" />
 </head>
 <body>
@@ -66,15 +62,6 @@
                                 </p>
                             </li>
                         </div>
-                        <li>
-                            @* <select name="themes" id="themes" onchange="changeTheme(this.value)">
-                                <option value="batman">Batman</option>
-                                <option value="infamous">Infamous</option>
-                                <option value="sonic">Sonic</option>
-                                <option value="harry-potter">Harry Potter</option>
-                                <option value="uncharted">Uncharted</option>
-                            </select> *@
-                        </li>
                     </ul>
                 </div>
                 <div>
@@ -141,10 +128,19 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <label>Option:</label><select></select>
-        <label>Option:</label><select></select>
-        <label>Option:</label><select></select>
-        <label>Option:</label><select></select>
+        <label>Themes:
+            <select name="themes" id="themes" onchange="changeTheme(this.value)">
+                <option value="batman">Batman</option>
+                <option value="infamous">Infamous</option>
+                <option value="sonic">Sonic</option>
+                <option value="harry-potter">Harry Potter</option>
+                <option value="uncharted">Uncharted</option>
+            </select>
+        </Label>
+        <label class="switch">Light Mode:
+            <input type="checkbox">
+            <span class="slider round"></span>
+        </label>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
