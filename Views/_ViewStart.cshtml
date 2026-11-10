@@ -15,6 +15,8 @@
     ViewData["CurrentTheme"] = theme;
     ViewData["HomeIcon"] = FindAsset("home-icon");
     ViewData["Background"] = FindAsset("background");
+    ViewData["Primary-Text"] = "#FFFFFF";
+
     for (int i = 1; i < 5; i++) { ViewData[$"quick-card-{i}"] = FindAsset($"quick-card-{i}"); }
 
     Layout = "_Layout";

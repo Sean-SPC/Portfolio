@@ -4,6 +4,15 @@
   var currentTheme = ViewData["CurrentTheme"];
 }
 
+@if (ViewData["Primary-Text"] is not null)
+{
+    <style>
+        :root {
+            --primary-text: @ViewData["Primary-Text"];
+        }
+    </style>
+}
+
 @{
   string status = "static";
   string cardMedia = "image";
@@ -57,8 +66,8 @@
   @* Floating Title *@
   <div class="container-fluid text-center align-items-center bg-transparent">
     <div class="row">
-      <p class="fs-1 fw-bold text-black">Sean Canning</p>
-      <p class="fs-3 text-black">Software Engineer</p>
+      <p class="fs-1 fw-bold floating-title">Sean Canning</p>
+      <p class="fs-3 floating-title">Software Engineer</p>
     </div>
   </div>
   @* Quick Cards *@
@@ -66,7 +75,7 @@
     <div class="row justify-content-center h-100">
       @foreach (var card in quickCards)
       {
-        status = "dynamic";
+        status = "static";
         switch (status)
         {
           case "static":

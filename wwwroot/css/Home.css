@@ -20,6 +20,10 @@
   animation: dots 1.5s infinite;
 }
 
+.floating-title {
+  color: var(--primary-text);
+}
+
 @keyframes dots {
   0% {
     content: "R";
